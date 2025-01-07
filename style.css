@@ -10,6 +10,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    flex-grow: 1;
 }
 
 /* LOGO */
@@ -180,6 +181,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    flex-grow: 1;
 }
 
 .main-msg {
@@ -204,6 +206,7 @@ span {
     background-color: #e2e7e6;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    flex-wrap: 1;
 }
 .box:hover {
     cursor: pointer;
@@ -238,6 +241,7 @@ span {
 /* Footer */ 
 footer{
     border-top: 10px solid #e2e7e6 ;
+    flex-grow: 1;
 }
 .backtotop {
     color: white;
