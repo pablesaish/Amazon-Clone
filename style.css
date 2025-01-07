@@ -11,6 +11,7 @@
     align-items: center;
     justify-content: space-evenly;
     flex-grow: 1;
+    min-width: 1000px;
 }
 
 /* LOGO */
@@ -182,6 +183,7 @@ span {
     justify-content: center;
     align-items: flex-end;
     flex-grow: 1;
+    min-width: 1000px;
 }
 
 .main-msg {
@@ -207,6 +209,7 @@ span {
     justify-content: space-evenly;
     flex-wrap: wrap;
     flex-wrap: 1;
+    min-width: 1000px;
 }
 .box:hover {
     cursor: pointer;
@@ -242,6 +245,7 @@ span {
 footer{
     border-top: 10px solid #e2e7e6 ;
     flex-grow: 1;
+    min-width: 1000px;
 }
 .backtotop {
     color: white;
